@@ -1,2 +1,3 @@
-# Web_Lab_Foy1.1
-web lab çilesi 1.1
+# Web Laboratuvar Foyleri 
+
+Föy1 Soru 1 İçin https://pilestin.github.io/Web_Lab/Foy1/Soru1/index.html 
