@@ -1,0 +1,66 @@
+body {
+    font: 14px Arial, Helvetica, sans-serif;
+    margin: 0px;
+    
+}
+
+.menu a {
+    display: block;
+    color: #000000;
+    background-color: teal;
+    width: 200px;
+    height: 50px;
+    text-align: center;
+    padding-top: 15px;
+    font-weight: 800;   
+    border: 1px solid #000000;
+
+}
+.menu a:hover {
+    font-weight: bold;
+    color: #ffffff;
+    background-color: olive;
+    text-decoration: none;
+
+}
+.anamenu{
+    float: inline-start;
+    width: 200px;
+    height: min-content;
+}
+/* baştaki gereksiz içerikler kapatılır */ 
+.hakkimizda{
+    display: none;
+}
+.personel{
+    display: none;
+}
+.egitim{
+    display: none;
+}
+
+.d1:hover ~ .hakkimizda{
+    display: block;
+    position: relative;
+    left: 200px;    
+    bottom: 200px;
+} 
+
+.d2:hover ~ .personel{
+    display: block;
+    position: relative;
+    left: 200px;    
+    bottom: 150px;
+}
+
+.d3:hover ~ .egitim{
+    display: block;
+    position: relative;
+    left: 200px;    
+    bottom: 100px;
+    
+}
+
+.hakkimizda:hover{display: block;}
+.personel:hover{display: block;}
+.egitim:hover{display: block;}
