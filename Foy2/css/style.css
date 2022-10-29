@@ -1,0 +1,34 @@
+
+body {
+    margin-top: 50px;
+    background-color: rgba(242, 255, 122, 0.895);
+}
+
+table{
+    width: fit-content;
+}
+
+table,th,td{
+    border: 2px rgb(111, 108, 108); 
+    border-style: solid;
+    border-collapse: separate;  
+    /* collapse dersek tek çizgi , seperate dersek herbirinin kendi çizgisi olacak */
+    border-radius: 4px;
+    
+}
+
+/* içerik satırları  */ 
+td{
+    color: rgb(49, 42, 42);
+    font-weight: 500;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+/*başlık satırı */ 
+th{
+    text-align: center;
+    color: rgb(187, 29, 29);
+    font-size: large;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+

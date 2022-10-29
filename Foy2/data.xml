@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+    
+  <person>
+    <number>100</number>
+    <name>Yasin Ünal</name>
+    <department>Bilgisayar Mühendisliği</department>
+    <grade>4</grade>
+  </person>
+
+  <person>
+    <number>101</number>
+    <name>Osman Küçükşar</name>
+    <department>Bilgisayar Mühendisliği</department>
+    <grade>4</grade>
+  </person>
+
+  <person>
+    <number>102</number>
+    <name>Ayşe Can</name>
+    <department>Kimya Mühendisliği</department>
+    <grade>2</grade>
+  </person>
+
+  <person>
+    <number>103</number>
+    <name>Recep Kaya</name>
+    <department>ilahiyat fakültesi</department>
+    <grade>4</grade>
+  </person>
+
+  <person>
+    <number>104</number>
+    <name>Aslı Tahin</name>
+    <department>Tıp Fakültesi</department>
+    <grade>5</grade>
+  </person>
+
+</catalog>
+
