@@ -14,6 +14,6 @@
 |Föy 2 | [Ajax ile Asenkron Çağırım + XML](https://github.com/Pilestin/Web_Lab/tree/master/Foy2) | [Öğrenci tablosu, asenkron detaylı bilgi](https://pilestin.github.io/Web_Lab/Foy2/index.html) | 
 |Föy 3 | [node.js ile mysql+dosyaişlemleri(fs)](https://github.com/Pilestin/Web_Lab/tree/master/Foy3) | - | 
 |Föy 4 | nmap ile zafiyet testi ve Shodan aracı | - | 
-|Föy 5 | [Spring MVC ve Hibernate ile CRUD işlemleri](https://github.com/Pilestin/Web_Lab/tree/master/SpringFoy5) |   | 
+|Föy 5 | [Spring MVC ve Hibernate ile CRUD işlemleri](https://github.com/Pilestin/Web_Lab/tree/master/SpringFoy5) | -  | 
 |Föy 6 | Yazılım Testleri, JMeter | - | 
 
