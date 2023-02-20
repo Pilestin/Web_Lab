@@ -2,8 +2,8 @@
 
 ### Not : Ondokuz Mayıs Üniversitesinde verilen bu derste her hafta bir de uygulama-sınav yapılmakta. 
 
-### Peki uygulamayı yaptığınız bilgisayarın size vahiy bile gelse yazdığınız kodu çalıştıramayacağını biliyormuydunuz. Çünkü eklentileri eksik.
-
+<strong>Peki uygulamayı yaptığınız bilgisayarın size vahiy bile gelse yazdığınız kodu çalıştıramayacağını biliyormuydunuz. Çünkü eklentileri eksik.
+</strong> 
 --- 
 
 |Föy | Amaç | Çalışan Örneği |  
